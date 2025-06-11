@@ -1,0 +1,11 @@
+c:\users\shiva\onedrive\documents\visual studio 2010\Projects\CosmeticManagement\CosmeticManagement\obj\x86\Debug\CosmeticManagement.LOGIN.resources
+c:\users\shiva\onedrive\documents\visual studio 2010\Projects\CosmeticManagement\CosmeticManagement\obj\x86\Debug\CosmeticManagement.Properties.Resources.resources
+c:\users\shiva\onedrive\documents\visual studio 2010\Projects\CosmeticManagement\CosmeticManagement\obj\x86\Debug\CosmeticManagement.Registration.resources
+c:\users\shiva\onedrive\documents\visual studio 2010\Projects\CosmeticManagement\CosmeticManagement\obj\x86\Debug\CosmeticManagement.csproj.GenerateResource.Cache
+c:\users\shiva\onedrive\documents\visual studio 2010\Projects\CosmeticManagement\CosmeticManagement\bin\Debug\CosmeticManagement.exe
+c:\users\shiva\onedrive\documents\visual studio 2010\Projects\CosmeticManagement\CosmeticManagement\bin\Debug\CosmeticManagement.pdb
+c:\users\shiva\onedrive\documents\visual studio 2010\Projects\CosmeticManagement\CosmeticManagement\obj\x86\Debug\CosmeticManagement.exe
+c:\users\shiva\onedrive\documents\visual studio 2010\Projects\CosmeticManagement\CosmeticManagement\obj\x86\Debug\CosmeticManagement.pdb
+c:\users\shiva\onedrive\documents\visual studio 2010\Projects\CosmeticManagement\CosmeticManagement\obj\x86\Debug\CosmeticManagement.Home_Page.resources
+c:\users\shiva\onedrive\documents\visual studio 2010\Projects\CosmeticManagement\CosmeticManagement\obj\x86\Debug\CosmeticManagement.Product_Page.resources
+c:\users\shiva\onedrive\documents\visual studio 2010\Projects\CosmeticManagement\CosmeticManagement\obj\x86\Debug\CosmeticManagement.view.resources
